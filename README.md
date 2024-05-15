@@ -1,1 +1,1 @@
-# go-hello-web
+# bookings-go
